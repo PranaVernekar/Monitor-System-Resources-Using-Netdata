@@ -50,4 +50,4 @@
 
 <img width="1918" height="1023" alt="Screenshot 2025-10-02 181234" src="https://github.com/user-attachments/assets/45a6d88c-a952-466e-a2c8-f541c946725d" />
 
-
+ 
