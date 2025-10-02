@@ -6,7 +6,7 @@
 
 
 
-## Run via Docker: docker run -d --name=netdata -p 19999:19999 netdata/netdata
+## 1. Run via Docker: docker run -d --name=netdata -p 19999:19999 netdata/netdata
 
 <img width="1919" height="1018" alt="Screenshot 2025-10-02 180019" src="https://github.com/user-attachments/assets/09698c43-3be7-4ef3-9916-7aed1521050c" />
 
@@ -17,14 +17,14 @@
 
 
 
-## Access at http://localhost:19999
+## 2. Access at http://localhost:19999
 
 <img width="1919" height="962" alt="Screenshot 2025-10-02 180220" src="https://github.com/user-attachments/assets/fd333729-1b8c-4978-9cdf-ad92157e9153" />
 
 
 
 
-## Monitor CPU, memory, disk, Docker containers
+## 3. Monitor CPU, memory, disk, Docker containers
 
 <img width="1919" height="972" alt="Screenshot 2025-10-02 180535" src="https://github.com/user-attachments/assets/969731e8-ad97-4594-ac1d-5f4010646b41" />
 
@@ -37,7 +37,7 @@
 
 
 
-## Explore alerts and chart panels
+## 4. Explore alerts and chart panels
 
 <img width="1918" height="973" alt="Screenshot 2025-10-02 181437" src="https://github.com/user-attachments/assets/611b1ce1-3ea2-4fa0-b65b-3a193ffa67e7" />
 
@@ -46,7 +46,7 @@
 
 
 
-## Explore logs in /var/log/netdata
+## 5. Explore logs in /var/log/netdata
 
 <img width="1918" height="1023" alt="Screenshot 2025-10-02 181234" src="https://github.com/user-attachments/assets/45a6d88c-a952-466e-a2c8-f541c946725d" />
 
